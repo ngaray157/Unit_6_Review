@@ -55,7 +55,7 @@ figure{
 figure img{
    border-width: 25px;
    border-style: solid;
-   border-image: url(tb_frame.png) 60px stretch;
+   border-image: url(tb_frame.png) 60 stretch;
    display: block;
    width: 100%;
    -webkit-filter: sepia(0.8);
